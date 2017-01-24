@@ -1,0 +1,23 @@
+{
+  "documentation": "https://github.com/adobe/brackets/wiki/User-Key-Bindings",
+  "overrides": {
+    "Ctrl-Shift-L":  "edit.splitSelIntoLines",
+    "Ctrl-Shift-Up":   "edit.addCursorToPrevLine",
+    "Ctrl-Shift-Down": "edit.addCursorToNextLine",
+    "Alt-Up": "edit.lineUp",
+    "Alt-Down": "edit.lineDown",
+    "Ctrl-Shift-D":  "edit.duplicate",
+    "Ctrl-D":  "edit.deletelines",
+    "Ctrl-Shift-R": "navigate.gotoDefinition",
+    "Ctrl-Shift-P": "navigate.quickOpen",
+    "Ctrl-Shift-Enter": "edit.openLineAbove",
+    "Ctrl-Enter": "edit.openLineBelow",
+    "Ctrl-F": "cmd.replace",
+    "Ctrl-H": "cmd.findInFiles",
+    "Ctrl-1": "view.hideSidebar",
+    "Ctrl-2": "view.showSidebar",
+    "Ctrl-Shift-F": "me.drewh.jsbeautify",
+    "Alt-Shift-Up": "pflynn.everyscrub.nudge_up",
+    "Alt-Shift-Down": "pflynn.everyscrub.nudge_down"
+  }
+}
