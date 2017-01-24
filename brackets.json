@@ -1,0 +1,12 @@
+{
+    "fonts.fontSize": "12px",
+    "fonts.fontFamily": "'SourceCodePro-Medium', 'MS Gothic', monospace",
+    "softTabs": false,
+    "spaceUnits": 2,
+    "tabSize": 2,
+    "smartIndent": false,
+    "useTabChar": false,
+    "brackets-indent-guides.enabled": false,
+    "me.drewh.jsbeautify.on_save": false,
+    "themes.theme": "dark-theme"
+}
